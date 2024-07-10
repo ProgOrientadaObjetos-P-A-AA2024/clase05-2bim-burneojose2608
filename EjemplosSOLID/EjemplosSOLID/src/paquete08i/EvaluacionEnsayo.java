@@ -48,3 +48,6 @@ public class EvaluacionEnsayo implements EvaluacionTipoDos {
     
 }
 // implentes se lo utiliza para trabajar con interfaces extends es el extension de una clase abstracta
+/*
+le estasbamos dando vida  y logica a la iterface EvaluacionTipoDos
+*/
