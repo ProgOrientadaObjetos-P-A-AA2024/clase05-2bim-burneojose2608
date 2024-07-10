@@ -13,10 +13,6 @@ public class TarjetaCredit {
  private String numero;
  private Banco banco;
 
-    public TarjetaCredit(String n, String m) {
-        nombre = n;
-        numero = m;
-    }
  
  
  public void establecerNombre(String x){
